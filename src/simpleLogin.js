@@ -1,3 +1,5 @@
+// Mock login
+
 let login = (username,password) => {
     if(username && password !== ""){
         return true
